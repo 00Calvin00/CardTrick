@@ -1,2 +1,3 @@
 # CardTrick
 This repository contains a program attempting to illustrate how a magic card trick works.
+- The up to date files are ChristmasCardTrick and ChristmasCardTrickTest. The other two files are my old unrevised work from when I first looked at this problem. I wasn't using github at the time so I don't have any commit history but I at least wanted to show some of the progress made throughout this project.
